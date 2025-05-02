@@ -77,4 +77,6 @@ Backend API: http://localhost:8000
 📺 Demo
 Watch a demo of the platform here:
 👉 YouTube Demo Link
-(Replace with the actual link once the video is uploaded)
+```
+Replace with the actual link once the video is uploaded
+```
