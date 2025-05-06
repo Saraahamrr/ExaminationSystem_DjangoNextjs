@@ -76,7 +76,7 @@ Backend API: http://localhost:8000
 
 📺 Demo
 Watch a demo of the platform here:
-👉 YouTube Demo Link
+👉 Demo Link
 ```
-https://youtu.be/4rBuwG1QNlg
+https://drive.google.com/file/d/1D8E3UVM5CXIdY7_arvay9LNUT9vdkDWt/view
 ```
