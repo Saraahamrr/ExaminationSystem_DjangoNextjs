@@ -78,5 +78,5 @@ Backend API: http://localhost:8000
 Watch a demo of the platform here:
 👉 Demo Link
 ```
-https://drive.google.com/file/d/1D8E3UVM5CXIdY7_arvay9LNUT9vdkDWt/view
+https://shorturl.at/UE378
 ```
