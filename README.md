@@ -80,3 +80,5 @@ Watch a demo of the platform here:
 ```
 https://shorturl.at/UE378
 ```
+
+[![Watch the demo](images/demo-thumbnail.png)](https://youtube.com/your-video-link](https://shorturl.at/UE378)
